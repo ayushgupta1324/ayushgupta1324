@@ -1,5 +1,6 @@
-![Ayush's Github Banner](https://user-images.githubusercontent.com/112663758/209855188-399e5a0b-1ae3-4b46-97eb-db5673d8d5d6.gif)
-### Hi there 👋 I'm a Full Stack Web Developer
+![GithubBanner](https://user-images.githubusercontent.com/112663758/209858397-dadceed0-7a64-40ce-b911-1a016c2b9f6d.gif)
+
+### Hi there 👋 I'm a Full Stack Web Developer 
 
 <!--
 **ayushgupta1324/ayushgupta1324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
