@@ -1,3 +1,4 @@
+![Ayush's Github Banner](https://user-images.githubusercontent.com/112663758/209855188-399e5a0b-1ae3-4b46-97eb-db5673d8d5d6.gif)
 ### Hi there 👋 I'm a Full Stack Web Developer
 
 <!--
