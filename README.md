@@ -58,27 +58,9 @@ I'm a graduate in Electrical Engineering 🎓 from JSS Academy of Technical Edu.
  <a href="https://twitter.com/AyushGupta___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AyushGupta__" height="30" width="40" /></a>
 </p
 
- <h3 align="left">Github Stats</h3>
+<h3 align="left">Github Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushgupta1324&show_icons=true&locale=en&layout=compact" alt="ayushgupta1324" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushgupta1324&show_icons=true&locale=en" alt="ayushgupta1324" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayushgupta1324&label=Profile%20views&color=0e75b6&style=flat" alt="ayushgupta1324" /> </p>
-
-
-<!--
-**ayushgupta1324/ayushgupta1324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushgupta1324&" alt="ayushgupta1324" /></p> 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning MERN Stack
-- 👯 I’m looking to collaborate on FrontEnd Projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
