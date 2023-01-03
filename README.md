@@ -12,7 +12,7 @@ I'm a graduate in Electrical Engineering 🎓 from JSS Academy of Technical Edu.
 
 - 👨‍💻 All of my projects are available at [ayushgupta1324.github.io](https://ayushgupta1324.github.io)
 
-- 💬 Ask me about **react,HTML,CSS**
+- 💬 Ask me about **HTML,CSS,JS,React**
 
 - 📫 How to reach me **ayushgupta1324@gmail.com**
 
