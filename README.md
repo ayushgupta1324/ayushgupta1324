@@ -6,10 +6,10 @@
 
 I'm a graduate in Electrical Engineering 🎓 from JSS Academy of Technical Edu. 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushgupta1324" alt="ayushgupta1324" /></a> </p>
 
-<div margin-bottom="36px">
 <img align="right" height="220" width="345" alt="" src="https://user-images.githubusercontent.com/112663758/210334142-9208f722-e697-47e4-b854-6069c69cb60a.gif" />
+
+<p marginLeft="20"> <img src="https://komarev.com/ghpvc/?username=ayushgupta1324&label=Profile%20views&color=0e75b6&style=flat" alt="ayushgupta1324" /> </p>
 
 - 🌱 I’m currently learning **MERN Full Stack**
 
@@ -18,9 +18,8 @@ I'm a graduate in Electrical Engineering 🎓 from JSS Academy of Technical Edu.
 - 💬 Ask me about **HTML,CSS,JS,React**
 
 - 📫 How to reach me **ayushgupta1324@gmail.com**
-</div>
 
-
+<br/>
 
 ## Languages and Tools:-
 <div >
@@ -58,12 +57,20 @@ I'm a graduate in Electrical Engineering 🎓 from JSS Academy of Technical Edu.
  <a href="https://twitter.com/AyushGupta___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AyushGupta__" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Github Stats:</h3>
+<div align="center" >
+  <h1 align='center'>
+<img width='150' height='50' src="https://camo.githubusercontent.com/81e598418a780d07b9e23fd717200fca0f18dee49d78507f03f7eea1c1d23fbb/687474703a2f2f692e696d6775722e636f6d2f513754515948782e706e67" />
+</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushgupta1324&show_icons=true&locale=en&layout=compact" alt="ayushgupta1324" /></p>
+![](https://github-readme-stats.vercel.app/api?username=ayushgupta1324&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ayushgupta1324&theme=vue-dark&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta1324&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+  
+  
+  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ayushgupta1324&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4)
+  
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushgupta1324&show_icons=true&locale=en" alt="ayushgupta1324" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushgupta1324&" alt="ayushgupta1324" /></p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayushgupta1324&label=Profile%20views&color=0e75b6&style=flat" alt="ayushgupta1324" /> </p>
