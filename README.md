@@ -5,6 +5,16 @@
 <!--
 **ayushgupta1324/ayushgupta1324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushgupta1324" alt="ayushgupta1324" /></a> </p>
+
+- 🌱 I’m currently learning **MERN Full Stack**
+
+- 👨‍💻 All of my projects are available at [ayushgupta1324.github.io](https://ayushgupta1324.github.io)
+
+- 💬 Ask me about **react,HTML,CSS**
+
+- 📫 How to reach me **ayushgupta1324@gmail.com**
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
