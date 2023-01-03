@@ -56,9 +56,10 @@ I'm a graduate in Electrical Engineering 🎓 from JSS Academy of Technical Edu.
 <p align="left">
 <a href="https://www.linkedin.com/in/ayuta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayuta" height="30" width="40" /></a>
  <a href="https://twitter.com/AyushGupta___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AyushGupta__" height="30" width="40" /></a>
-</p
+</p>
 
 <h3 align="left">Github Stats:</h3>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushgupta1324&show_icons=true&locale=en&layout=compact" alt="ayushgupta1324" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushgupta1324&show_icons=true&locale=en" alt="ayushgupta1324" /></p>
