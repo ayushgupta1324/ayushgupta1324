@@ -49,10 +49,13 @@
 </p
 
  <h3 align="left">Github Stats</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayushgupta1324&label=Profile%20views&color=0e75b6&style=flat" alt="ayushgupta1324" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushgupta1324&show_icons=true&locale=en&layout=compact" alt="ayushgupta1324" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushgupta1324&show_icons=true&locale=en" alt="ayushgupta1324" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushgupta1324&" alt="ayushgupta1324" /></p> 
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayushgupta1324&label=Profile%20views&color=0e75b6&style=flat" alt="ayushgupta1324" /> </p>
 
 
 <!--
