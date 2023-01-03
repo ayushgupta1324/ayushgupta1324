@@ -1,6 +1,6 @@
 ![GithubBanner](https://user-images.githubusercontent.com/112663758/209858397-dadceed0-7a64-40ce-b911-1a016c2b9f6d.gif)
 
-### Hi there 👋 I'm a Full Stack Web Developer 💻
+### Hi there 👋 I'm a Full Stack Web Developer 💻I'm a graduate in Electrical Engineering 🎓 from JSS Academy of Technical Edu. 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushgupta1324" alt="ayushgupta1324" /></a> </p>
 
