@@ -8,7 +8,7 @@ I'm a graduate in Electrical Engineering 🎓 from JSS Academy of Technical Edu.
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushgupta1324" alt="ayushgupta1324" /></a> </p>
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/ayushgupta1324/ayushgupta1324/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://user-images.githubusercontent.com/112663758/210334142-9208f722-e697-47e4-b854-6069c69cb60a.gif" />
 
 - 🌱 I’m currently learning **MERN Full Stack**
 
