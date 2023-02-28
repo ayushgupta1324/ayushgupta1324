@@ -23,7 +23,7 @@ I'm a graduate in Electrical Engineering 🎓 from JSS Academy of Technical Edu.
 
 📫 &nbsp; How to reach me **ayushgupta1324@gmail.com**
 
-📄 &nbsp; Checkout my [Resume](https://github.com/ayushgupta1324/ayushgupta1324/files/10338334/Ayush_Gupta_Resume.pdf)
+📄 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1yJkkEin-BqMi5GfuW5XntRQRVuVNgt83/view?usp=share_link)
 
 <br/>
 
